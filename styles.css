@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(236, 233, 228, 0.377);
+    /* align-items: center; */
+}
+
+.container {
+    margin-top: 20vh;
+    border: 1px solid rgba(126, 126, 126, 0.514);
+    box-shadow: 5px 10px #cfcaca;
+    padding: 20px;
+}
+
+h2 {
+    color: rgba(105, 96, 84, 0.945);
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.container > select {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 4px;
+}
+
+
